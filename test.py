@@ -10,3 +10,5 @@ for i in list(range(0,10):
               
 DF=pd.read_csv("./mi_csv.csv")
               
+for i in list(range(0,20):
+  print("second for")
